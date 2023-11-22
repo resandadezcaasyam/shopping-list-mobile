@@ -6,13 +6,5 @@ Resanda Dezca Asyam - 2206082682 - PBP-C
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Link Markdown Deploy Aplikasi:
+[![Build status](https://build.appcenter.ms/v0.1/apps/f5d73ff8-2425-40eb-9afd-c604e54ec7ef/branches/main/badge)](https://appcenter.ms)
